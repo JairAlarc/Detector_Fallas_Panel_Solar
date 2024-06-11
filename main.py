@@ -47,8 +47,8 @@ def load_adjusted_model(model_path, class_names, device):
     model.load_state_dict(new_state_dict)
     return model
 
-# Seleccionar dispositivo (solo CPU)
-device = torch.device("cpu")
+# Seleccionar dispositivo (GPU si está disponible, de lo contrario CPU)
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 # Cargar el modelo ajustado
 model = load_adjusted_model(model_path, class_names, device)
