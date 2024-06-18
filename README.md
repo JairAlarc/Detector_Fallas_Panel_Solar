@@ -3,6 +3,7 @@ Ejecución de Proyecto de detector de fallas y anomalias en paneles solares
 ![Portada](https://github.com/JairAlarc/Detector_Fallas_Panel_Solar/blob/main/paneles%20solar%20foto.png)
 
 ### Proyecto IA Detector de Fallas en Paneles Solares
+[Proyecto](https://docs.google.com/document/d/1xAu5LHp8gncbjbAdSBlf7JuwWTsO_LQ-/edit?usp=drive_link&ouid=107329563184221328273&rtpof=true&sd=true)
 
 #### Introducción
 
