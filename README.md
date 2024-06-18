@@ -161,6 +161,5 @@ Desarrollar un modelo de clasificación de imágenes capaz de detectar y clasifi
 - **Innovación Tecnológica:** Demuestra el potencial de las tecnologías de machine learning y deep learning para resolver problemas complejos en el sector energético.
 
 #### Anexos
-- **Enlace a GitHub y documentación técnica:** [GitHub](https://github.com/JairAlarc/Detector_Fallas_Panel_Solar)
 - **Enlace a Render:** [Render](https://detector-fallas-panel-solar.onrender.com/docs)
-- **Documentación** [Drive](https://drive.google.com/drive/folders/12XkYnMwrBBEFF5_GYHS1znmGmBsE144u?usp=drive_link)
+- **Documentación Técnica** [Drive](https://drive.google.com/drive/folders/12XkYnMwrBBEFF5_GYHS1znmGmBsE144u?usp=drive_link)
