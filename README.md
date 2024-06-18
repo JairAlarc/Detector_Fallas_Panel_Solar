@@ -11,7 +11,7 @@ La energía solar ha emergido como una solución prometedora para la generación
 
 **Situación de la Energía Solar en Colombia**
 Colombia ha visto un aumento significativo en la capacidad instalada de energía solar fotovoltaica, pasando de 13 MW en 2018 a 457 MW en 2022. Se espera que la capacidad instalada continúe creciendo, alcanzando 1500 MW para 2025.
-![ColombiaCapacidadPOUT]()
+![ColombiaCapacidadPOUT](https://github.com/JairAlarc/Detector_Fallas_Panel_Solar/blob/main/PVOUT.png)
 **Problemática de las Anomalías en los Paneles Solares**
 Diversas anomalías (puntos calientes, microgrietas, sombras) pueden reducir la eficiencia de los paneles y aumentar los costos de mantenimiento. Las pérdidas económicas asociadas a estas anomalías son significativas, con estimaciones de 67 millones de euros anuales en Colombia y 2500 millones de dólares a nivel global (Raptor Maps).
 
