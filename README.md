@@ -44,6 +44,7 @@ El proyecto se centra en detectar y clasificar las siguientes anomalías:
 10. Hot-Spot
 11. Hot-Spot-Multi
 12. Soiling
+
 **Fuente Dataset** [GitHub](https://github.com/RaptorMaps/InfraredSolarModules/blob/master/README.md)
 
 **Descripción del Dataset**
